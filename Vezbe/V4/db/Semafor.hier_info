@@ -1,0 +1,24 @@
+|Semafor
+iCLK => sCNT[0].CLK
+iCLK => sCNT[1].CLK
+iCLK => sCNT[2].CLK
+iCLK => sSTATE~1.DATAIN
+iRST => sCNT[0].ACLR
+iRST => sCNT[1].ACLR
+iRST => sCNT[2].ACLR
+iRST => sSTATE~3.DATAIN
+iOK => sNEXT_STATE.GREEN.IN1
+iOK => Selector8.IN3
+iOK => Selector8.IN4
+iOK => sNEXT_STATE.DATAB
+iOK => Selector1.IN2
+iHAZ => Selector1.IN3
+iHAZ => Selector2.IN1
+iHAZ => Selector4.IN1
+iHAZ => Selector6.IN1
+iHAZ => Selector8.IN1
+oRED <= oRED.DB_MAX_OUTPUT_PORT_TYPE
+oYELLOW <= oYELLOW.DB_MAX_OUTPUT_PORT_TYPE
+oGREEN <= oGREEN.DB_MAX_OUTPUT_PORT_TYPE
+
+

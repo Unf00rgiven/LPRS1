@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Ognjen/Desktop/Fax/II godina/LPRS/Zadatak_3/Zadatak/simulation/modelsim
+Ezadatak
+Z1 w1604573453
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/Ognjen/Desktop/Fax/II godina/LPRS/Zadatak_3/Zadatak/Zadatak.vhd
+Z5 FC:/Users/Ognjen/Desktop/Fax/II godina/LPRS/Zadatak_3/Zadatak/Zadatak.vhd
+l0
+L4
+V;7SB1FcK<3eXka]z;8jUL2
+!s100 eoZI[NHf]VkVHhAReJWi03
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1604573920
+!i10b 1
+Z8 !s108 1604573920.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/Ognjen/Desktop/Fax/II godina/LPRS/Zadatak_3/Zadatak/Zadatak.vhd|
+Z10 !s107 C:/Users/Ognjen/Desktop/Fax/II godina/LPRS/Zadatak_3/Zadatak/Zadatak.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+DEx4 work 7 zadatak 0 22 ;7SB1FcK<3eXka]z;8jUL2
+l23
+L16
+V>Nj[VhRc5IOTaY7?4<gC^2
+!s100 QK=f;jhQj38XaJ=B8R@V]3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ezadatak_tb
+Z13 w1604573629
+R2
+R3
+R0
+Z14 8C:/Users/Ognjen/Desktop/Fax/II godina/LPRS/Zadatak_3/Zadatak/simulation/modelsim/Zadatak_tb.vhd
+Z15 FC:/Users/Ognjen/Desktop/Fax/II godina/LPRS/Zadatak_3/Zadatak/simulation/modelsim/Zadatak_tb.vhd
+l0
+L4
+VH8MlE2z3k0l7^Za4ijkc^3
+!s100 UmjiPD^7Hg5]XI?]UM<LV3
+R6
+31
+Z16 !s110 1604573921
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/Ognjen/Desktop/Fax/II godina/LPRS/Zadatak_3/Zadatak/simulation/modelsim/Zadatak_tb.vhd|
+Z18 !s107 C:/Users/Ognjen/Desktop/Fax/II godina/LPRS/Zadatak_3/Zadatak/simulation/modelsim/Zadatak_tb.vhd|
+!i113 1
+R11
+R12
+Abeh
+R2
+R3
+DEx4 work 10 zadatak_tb 0 22 H8MlE2z3k0l7^Za4ijkc^3
+l26
+L8
+VM7BiYdC3GAeFULQ>^G]TV3
+!s100 T7aneOi[z>iVjcKm=0WlX1
+R6
+31
+R16
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12

@@ -1,0 +1,17 @@
+|demux
+iX => oY0.DATAB
+iX => oY1.DATAB
+iX => oY2.DATAB
+iX => oY3.DATAA
+iSEL[0] => Equal0.IN1
+iSEL[0] => Equal1.IN1
+iSEL[0] => Equal2.IN0
+iSEL[1] => Equal0.IN0
+iSEL[1] => Equal1.IN0
+iSEL[1] => Equal2.IN1
+oY0 << oY0.DB_MAX_OUTPUT_PORT_TYPE
+oY1 << oY1.DB_MAX_OUTPUT_PORT_TYPE
+oY2 << oY2.DB_MAX_OUTPUT_PORT_TYPE
+oY3 << oY3.DB_MAX_OUTPUT_PORT_TYPE
+
+

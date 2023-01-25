@@ -1,0 +1,45 @@
+|Semafor
+iCLK => sDATA[0].CLK
+iCLK => sDATA[1].CLK
+iCLK => sDATA[2].CLK
+iCLK => sDATA[3].CLK
+iCLK => sDATA[4].CLK
+iCLK => sDATA[5].CLK
+iCLK => sDATA[6].CLK
+iCLK => sDATA[7].CLK
+iCLK => sDATA[8].CLK
+iCLK => sDATA[9].CLK
+inRST => sDATA[0].ACLR
+inRST => sDATA[1].ACLR
+inRST => sDATA[2].ACLR
+inRST => sDATA[3].ACLR
+inRST => sDATA[4].ACLR
+inRST => sDATA[5].ACLR
+inRST => sDATA[6].ACLR
+inRST => sDATA[7].ACLR
+inRST => sDATA[8].ACLR
+inRST => sDATA[9].ACLR
+iD => sDATA[9].DATAIN
+iEN => sDATA[9].ENA
+iEN => sDATA[8].ENA
+iEN => sDATA[7].ENA
+iEN => sDATA[6].ENA
+iEN => sDATA[5].ENA
+iEN => sDATA[4].ENA
+iEN => sDATA[3].ENA
+iEN => sDATA[2].ENA
+iEN => sDATA[1].ENA
+iEN => sDATA[0].ENA
+iSEL[0] => Equal0.IN3
+iSEL[0] => Equal1.IN3
+iSEL[0] => Equal2.IN3
+iSEL[1] => Equal0.IN2
+iSEL[1] => Equal1.IN2
+iSEL[1] => Equal2.IN2
+oQ[0] <= sMUX.DB_MAX_OUTPUT_PORT_TYPE
+oQ[1] <= sMUX.DB_MAX_OUTPUT_PORT_TYPE
+oQ[2] <= sMUX.DB_MAX_OUTPUT_PORT_TYPE
+oQ[3] <= sMUX.DB_MAX_OUTPUT_PORT_TYPE
+oQ[4] <= sMUX.DB_MAX_OUTPUT_PORT_TYPE
+
+

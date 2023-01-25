@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Thu Dec 10 17:20:00 2020
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+Revision Name : Semafor
+Top-level Entity Name : Semafor
+Family : MAX 10
+Total logic elements : 21
+    Total combinational functions : 11
+    Dedicated logic registers : 10
+Total registers : 10
+Total pins : 11
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

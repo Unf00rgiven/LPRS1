@@ -1,0 +1,23 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+entity Semafor is
+    Port ( iCLK    : in  STD_LOGIC;
+           iRST    : in  STD_LOGIC;
+           iOK     : in  STD_LOGIC;
+           iHAZ    : in  STD_LOGIC;
+           oRED    : out STD_LOGIC;
+           oYELLOW : out STD_LOGIC;
+			  oGREEN  : out STD_LOGIC);
+end Semafor;
+
+architecture Behavioral of Semafor is
+
+    type tSTATE is (IDLE, RED, RED_YELLOW, GREEN, YELLOW, HAZARD);
+    signal sSTATE : tSTATE;
+	 signal sNEXT_STATE : tSTATE;
+begin
+
+
+end Behavioral;
